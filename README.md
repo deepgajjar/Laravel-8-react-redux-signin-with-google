@@ -19,3 +19,6 @@ screenshorts:
 4: profile/dashboard :
 
 ![sc4](https://user-images.githubusercontent.com/64460112/124354714-f6a9ea80-dc2a-11eb-9686-675e2e5b95a5.jpg)
+
+
+After logout user redirect to sigin page.
